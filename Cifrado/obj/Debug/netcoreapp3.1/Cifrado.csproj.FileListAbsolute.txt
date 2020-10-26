@@ -1,0 +1,13 @@
+C:\Users\ayala\source\repos\Cifrado\Cifrado\bin\Debug\netcoreapp3.1\Cifrado.exe
+C:\Users\ayala\source\repos\Cifrado\Cifrado\bin\Debug\netcoreapp3.1\Cifrado.deps.json
+C:\Users\ayala\source\repos\Cifrado\Cifrado\bin\Debug\netcoreapp3.1\Cifrado.runtimeconfig.json
+C:\Users\ayala\source\repos\Cifrado\Cifrado\bin\Debug\netcoreapp3.1\Cifrado.runtimeconfig.dev.json
+C:\Users\ayala\source\repos\Cifrado\Cifrado\bin\Debug\netcoreapp3.1\Cifrado.dll
+C:\Users\ayala\source\repos\Cifrado\Cifrado\bin\Debug\netcoreapp3.1\Cifrado.pdb
+C:\Users\ayala\source\repos\Cifrado\Cifrado\obj\Debug\netcoreapp3.1\Cifrado.csprojAssemblyReference.cache
+C:\Users\ayala\source\repos\Cifrado\Cifrado\obj\Debug\netcoreapp3.1\Cifrado.AssemblyInfoInputs.cache
+C:\Users\ayala\source\repos\Cifrado\Cifrado\obj\Debug\netcoreapp3.1\Cifrado.AssemblyInfo.cs
+C:\Users\ayala\source\repos\Cifrado\Cifrado\obj\Debug\netcoreapp3.1\Cifrado.csproj.CoreCompileInputs.cache
+C:\Users\ayala\source\repos\Cifrado\Cifrado\obj\Debug\netcoreapp3.1\Cifrado.dll
+C:\Users\ayala\source\repos\Cifrado\Cifrado\obj\Debug\netcoreapp3.1\Cifrado.pdb
+C:\Users\ayala\source\repos\Cifrado\Cifrado\obj\Debug\netcoreapp3.1\Cifrado.genruntimeconfig.cache
